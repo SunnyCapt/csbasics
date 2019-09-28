@@ -11,6 +11,9 @@ Array
     [laba#6] => <a href="./lab6">./lab6</a>
 )
 </pre>
+---
+
+[stack implementation](./stack.bcomp.asm)
 
 ---
 
