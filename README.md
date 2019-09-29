@@ -18,6 +18,7 @@ Array
 ---
 \- Что есть ВУ?<br>
 \- Я — ВУ.
+
 ---
 
 ***[bible](static/bible.pdf)***
