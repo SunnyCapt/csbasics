@@ -16,6 +16,9 @@ Array
 [stack implementation](./stack.bcomp.asm)
 
 ---
+\- Что есть ВУ?<br>
+\- Я — ВУ.
+---
 
 ***[bible](static/bible.pdf)***
 
