@@ -16,8 +16,8 @@ Array
 [stack implementation](./stack.bcomp.asm)
 
 ---
-\- Что есть ВУ?<br>
-\- Я — ВУ.
+> \- Что есть ВУ?<br>
+> \- Я — ВУ.
 
 ---
 
